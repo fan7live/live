@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=5000000
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/C9Z5qqZcT83Tj9A22cQKX0dtH7TF6nipOP8OUoQnC1nTuQoft7MrsdbkPKXLQL9g5UZOL-6JKfpJtet4b4AYfQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
