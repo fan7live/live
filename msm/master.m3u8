@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/Cgp5IJR1OrLF85jqVSh5Hrx88duhiCKtH3ijhJlIBDzDWYXMjFupm9ljmqV8hXV0i8EdY4wH8FCrQzKBOnnsYQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
